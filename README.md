@@ -24,10 +24,10 @@ Note: auto connects 3 connections if u using proxies and only 1 if not.
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/Nodepay-BOT.git
+   git clone https://github.com/bilalrai12/Nodepay_v2.git
    ```
    ```bash
-   cd Nodepay-BOT
+   cd Nodepay_v2
    ```
 
 2. **Install Requirements:**
